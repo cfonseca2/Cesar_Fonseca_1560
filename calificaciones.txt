@@ -1,0 +1,4 @@
+Jose,10,9,8
+Christian,7,6,9
+Jesus,10,10,10
+Maria,9,9,9
